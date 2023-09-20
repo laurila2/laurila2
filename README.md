@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laurila2
-- 👀 I’m an M.Sc. Electrical Engineering student interested in Embedded SW and HW. I am currently looking for a Master's Thesis position!
+- 👀 I’m an M.Sc. Electrical Engineering student interested in Embedded SW and HW. I am currently looking for a Master's Thesis position.
 - 🌱 I’m currently learning C++ and Rust
 - 📫 You can reach me with _sane @discord
 
